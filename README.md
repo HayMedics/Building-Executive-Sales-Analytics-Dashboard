@@ -87,8 +87,7 @@ This dashboard helps chocolate company executives:
 
 ## 👤 About Me
 
-I'm **Awwal**, a passionate beginner in **Data Science and AI**, building real-world projects to become job-ready.  
-This project was completed as part of my training at **HayMedics Academy**.
+I'm **Awwal**, a passionate learner in **Data Science and AI**, building real-world projects to become job-ready.  
 
 
 ## 📅 Completed
