@@ -65,14 +65,6 @@ Custom measures created:
 - **DAX** (Data Analysis Expressions)
 - **Star Schema** data modeling
 - **Data Analytics · Data Science · Data Loading**
-
----
-
-## 🖼️ Dashboard Preview
-
-> *(Upload a screenshot of your dashboard and replace this line)*  
-> `![Dashboard Preview](dashboard.png)`
-
 ---
 
 ## 📁 Repository Structure
