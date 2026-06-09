@@ -66,26 +66,6 @@ Custom measures created:
 - **Star Schema** data modeling
 - **Data Analytics · Data Science · Data Loading**
 
----
-
-## 🖼️ Dashboard Preview
-
-> *(Upload a screenshot of your dashboard and replace this line)*  
-> `![Dashboard Preview](Dashboard.png)`
-
----
-
-## 📁 Repository Structure
-
-```
-📂 awesome-chocolates-powerbi/
-├── 1st_Power_BI_Project_Awwal.pbix   ← Power BI Dashboard file
-├── README.md                          ← Project documentation
-└── Dashboard.png                      ← Dashboard screenshot (add this)
-```
-
----
-
 ## 🚀 How to Open
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
